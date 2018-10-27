@@ -1,0 +1,596 @@
+[2018-10-26 20.35.31.794] Initialized with uuid 907DE939-53F4-47C3-AB02-1463082EE0CA
+[2018-10-26 20.35.31.795] Reading from /Users/mac/Library/Autosave Information/Unsaved Framer X Document 4.framerx (draft origin); preserving existing contents of project folder: false
+[2018-10-26 20.35.31.905] Updating origin: /Users/mac/Library/Autosave Information/Unsaved Framer X Document 4.framerx, last modified on: 2018-10-26 11:35:31 +0000
+[2018-10-26 20.35.31.925] Done reading
+[2018-10-26 20.35.31.926] Marking changed: false
+[2018-10-26 20.35.31.928] Marking changed: true
+[2018-10-26 20.35.42.172] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 20.35.43.141] Done saving
+[2018-10-26 20.35.43.147] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 11:35:43 +0000
+[2018-10-26 20.35.43.154] Marking changed: false
+[2018-10-26 20.36.32.541] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.36.32.zip
+[2018-10-26 20.37.33.563] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.37.33.zip
+[2018-10-26 20.40.34.555] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.40.34.zip
+[2018-10-26 20.41.35.361] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.41.35.zip
+[2018-10-26 20.42.31.582] Invalidated
+[2018-10-26 20.42.39.710] Initialized with uuid 907DE939-53F4-47C3-AB02-1463082EE0CA
+[2018-10-26 20.42.39.716] Detecting changes: origin last modified on 2018-10-26 11:35:43 +0000, project last modified on 2018-10-26 11:35:43 +0000
+[2018-10-26 20.42.39.716] Reading from /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin); preserving existing contents of project folder: true
+[2018-10-26 20.42.39.974] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “7jzYxeyRSp4Z4gLIqg2TBpLyw.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/7jzYxeyRSp4Z4gLIqg2TBpLyw.png, NSUnderlyingError=0x600000c43ae0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 20.42.39.975] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000c43d50 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 20.42.39.975] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000c43fc0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 20.42.39.976] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000c43f60 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 20.42.39.976] Done reading
+[2018-10-26 20.42.39.977] Marking changed: false
+[2018-10-26 20.43.41.287] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.43.41.zip
+[2018-10-26 20.46.44.358] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.46.44.zip
+[2018-10-26 20.47.28.132] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 20.47.28.680] Done saving
+[2018-10-26 20.47.28.685] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 11:47:28 +0000
+[2018-10-26 20.47.28.685] Marking changed: false
+[2018-10-26 20.47.44.832] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.47.44.zip
+[2018-10-26 20.48.45.320] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.48.45.zip
+[2018-10-26 20.49.46.405] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.49.46.zip
+[2018-10-26 20.52.49.436] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.52.49.zip
+[2018-10-26 20.58.53.952] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.58.53.zip
+[2018-10-26 20.59.54.930] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 20.59.54.zip
+[2018-10-26 21.00.36.412] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x6000000525d0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.36.413] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x60400064edf0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.36.414] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x60400064d680 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.39.197] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x6040006542b0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.39.198] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x60000064f7b0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.39.199] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x60000045f440 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.00.56.409] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.00.56.zip
+[2018-10-26 21.01.56.920] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.01.56.zip
+[2018-10-26 21.02.57.799] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.02.57.zip
+[2018-10-26 21.03.04.137] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.03.04.686] Done saving
+[2018-10-26 21.03.04.691] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:03:04 +0000
+[2018-10-26 21.03.04.691] Marking changed: false
+[2018-10-26 21.03.58.351] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.03.58.zip
+[2018-10-26 21.05.25.063] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.05.25.600] Done saving
+[2018-10-26 21.05.25.605] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:05:25 +0000
+[2018-10-26 21.05.40.570] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.05.41.102] Done saving
+[2018-10-26 21.05.41.105] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:05:41 +0000
+[2018-10-26 21.05.41.106] Marking changed: false
+[2018-10-26 21.05.59.705] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.05.59.zip
+[2018-10-26 21.08.01.116] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.08.01.zip
+[2018-10-26 21.08.16.483] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.08.17.143] Done saving
+[2018-10-26 21.08.17.147] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:08:17 +0000
+[2018-10-26 21.08.17.148] Marking changed: false
+[2018-10-26 21.09.02.355] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.09.02.zip
+[2018-10-26 21.09.50.250] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.09.50.891] Done saving
+[2018-10-26 21.09.50.894] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:09:50 +0000
+[2018-10-26 21.09.50.894] Marking changed: false
+[2018-10-26 21.09.57.995] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.09.58.517] Done saving
+[2018-10-26 21.09.58.521] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:09:58 +0000
+[2018-10-26 21.09.58.521] Marking changed: false
+[2018-10-26 21.10.03.394] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.10.03.zip
+[2018-10-26 21.11.03.969] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.11.03.zip
+[2018-10-26 21.12.04.675] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.12.04.zip
+[2018-10-26 21.12.07.408] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.12.08.001] Done saving
+[2018-10-26 21.12.08.005] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:12:07 +0000
+[2018-10-26 21.12.08.005] Marking changed: false
+[2018-10-26 21.13.05.419] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.13.05.zip
+[2018-10-26 21.15.06.856] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.15.06.zip
+[2018-10-26 21.16.07.499] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.16.07.zip
+[2018-10-26 21.28.26.980] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.28.27.829] Done saving
+[2018-10-26 21.28.27.834] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:28:27 +0000
+[2018-10-26 21.28.27.836] Marking changed: false
+[2018-10-26 21.28.47.416] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.28.47.zip
+[2018-10-26 21.29.48.577] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.29.48.zip
+[2018-10-26 21.31.49.870] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.31.49.zip
+[2018-10-26 21.32.57.778] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.32.57.zip
+[2018-10-26 21.34.01.439] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.34.01.zip
+[2018-10-26 21.35.03.384] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.35.03.zip
+[2018-10-26 21.36.04.674] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.36.04.zip
+[2018-10-26 21.39.42.302] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.39.42.957] Done saving
+[2018-10-26 21.39.42.961] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:39:42 +0000
+[2018-10-26 21.39.42.962] Marking changed: false
+[2018-10-26 21.40.32.366] Invalidated
+[2018-10-26 21.40.45.154] Initialized with uuid 907DE939-53F4-47C3-AB02-1463082EE0CA
+[2018-10-26 21.40.45.159] Detecting changes: origin last modified on 2018-10-26 12:39:42 +0000, project last modified on 2018-10-26 12:39:42 +0000
+[2018-10-26 21.40.45.159] Reading from /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin); preserving existing contents of project folder: true
+[2018-10-26 21.40.45.475] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “7jzYxeyRSp4Z4gLIqg2TBpLyw.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/7jzYxeyRSp4Z4gLIqg2TBpLyw.png, NSUnderlyingError=0x600000a46f60 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.40.45.475] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e46540 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.40.45.476] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e471a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.40.45.476] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e47260 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-26 21.40.45.476] Done reading
+[2018-10-26 21.40.45.477] Marking changed: false
+[2018-10-26 21.41.45.784] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.41.45.zip
+[2018-10-26 21.42.46.738] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.42.46.zip
+[2018-10-26 21.43.47.721] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.43.47.zip
+[2018-10-26 21.44.48.718] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.44.48.zip
+[2018-10-26 21.45.49.762] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.45.49.zip
+[2018-10-26 21.45.55.536] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.45.56.134] Done saving
+[2018-10-26 21.45.56.138] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:45:56 +0000
+[2018-10-26 21.45.56.139] Marking changed: false
+[2018-10-26 21.46.10.581] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.46.11.145] Done saving
+[2018-10-26 21.46.11.149] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:46:11 +0000
+[2018-10-26 21.46.11.150] Marking changed: false
+[2018-10-26 21.46.50.677] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.46.50.zip
+[2018-10-26 21.48.54.750] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.48.54.zip
+[2018-10-26 21.49.55.367] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.49.55.zip
+[2018-10-26 21.50.13.791] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.50.14.308] Done saving
+[2018-10-26 21.50.14.312] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:50:14 +0000
+[2018-10-26 21.50.14.313] Marking changed: false
+[2018-10-26 21.50.56.875] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.50.56.zip
+[2018-10-26 21.51.01.415] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.51.01.898] Done saving
+[2018-10-26 21.51.01.902] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:51:01 +0000
+[2018-10-26 21.51.01.902] Marking changed: false
+[2018-10-26 21.51.46.259] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.51.46.750] Done saving
+[2018-10-26 21.51.46.754] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:51:46 +0000
+[2018-10-26 21.51.46.754] Marking changed: false
+[2018-10-26 21.51.57.686] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.51.57.zip
+[2018-10-26 21.52.34.077] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.52.34.585] Done saving
+[2018-10-26 21.52.34.589] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:52:34 +0000
+[2018-10-26 21.52.34.589] Marking changed: false
+[2018-10-26 21.52.52.159] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 21.52.52.661] Done saving
+[2018-10-26 21.52.52.665] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 12:52:52 +0000
+[2018-10-26 21.52.52.665] Marking changed: false
+[2018-10-26 21.52.58.686] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.52.58.zip
+[2018-10-26 21.53.59.307] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.53.59.zip
+[2018-10-26 21.55.00.550] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 21.55.00.zip
+[2018-10-26 22.26.50.634] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 22.26.50.zip
+[2018-10-26 22.27.33.847] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.27.34.415] Done saving
+[2018-10-26 22.27.34.419] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:27:34 +0000
+[2018-10-26 22.27.34.419] Marking changed: false
+[2018-10-26 22.27.51.394] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 22.27.51.zip
+[2018-10-26 22.29.52.466] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 22.29.52.zip
+[2018-10-26 22.30.53.975] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 22.30.53.zip
+[2018-10-26 22.31.08.681] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.31.09.232] Done saving
+[2018-10-26 22.31.09.236] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:31:09 +0000
+[2018-10-26 22.31.09.236] Marking changed: false
+[2018-10-26 22.31.54.481] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-26 22.31.54.zip
+[2018-10-26 22.32.57.339] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.32.57.854] Done saving
+[2018-10-26 22.32.57.857] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:32:57 +0000
+[2018-10-26 22.32.57.858] Marking changed: false
+[2018-10-26 22.33.20.080] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.33.20.570] Done saving
+[2018-10-26 22.33.20.574] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:33:20 +0000
+[2018-10-26 22.33.20.574] Marking changed: false
+[2018-10-26 22.33.25.195] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.33.25.719] Done saving
+[2018-10-26 22.33.25.723] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:33:25 +0000
+[2018-10-26 22.33.25.723] Marking changed: false
+[2018-10-26 22.44.57.135] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.44.57.737] Done saving
+[2018-10-26 22.44.57.740] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:44:57 +0000
+[2018-10-26 22.44.57.741] Marking changed: false
+[2018-10-26 22.49.20.420] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.49.21.098] Done saving
+[2018-10-26 22.49.21.102] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:49:21 +0000
+[2018-10-26 22.49.21.102] Marking changed: false
+[2018-10-26 22.50.50.131] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.50.50.887] Done saving
+[2018-10-26 22.50.50.891] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:50:50 +0000
+[2018-10-26 22.50.50.891] Marking changed: false
+[2018-10-26 22.51.36.650] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-26 22.51.37.172] Done saving
+[2018-10-26 22.51.37.176] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-26 13:51:37 +0000
+[2018-10-26 22.51.37.176] Marking changed: false
+[2018-10-26 23.11.21.793] Invalidated
+[2018-10-27 16.15.43.744] Initialized with uuid 907DE939-53F4-47C3-AB02-1463082EE0CA
+[2018-10-27 16.15.43.750] Detecting changes: origin last modified on 2018-10-26 13:51:37 +0000, project last modified on 2018-10-26 13:51:37 +0000
+[2018-10-27 16.15.43.751] Reading from /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin); preserving existing contents of project folder: true
+[2018-10-27 16.15.44.192] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000a55bd0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.192] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000e508f0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.193] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000e507a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.194] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “7jzYxeyRSp4Z4gLIqg2TBpLyw.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/7jzYxeyRSp4Z4gLIqg2TBpLyw.png, NSUnderlyingError=0x600000e50c50 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.194] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e51d90 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.195] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x604000a5ce90 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.196] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x604000a5d010 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 16.15.44.196] Done reading
+[2018-10-27 16.15.44.197] Marking changed: false
+[2018-10-27 16.16.45.085] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.16.45.zip
+[2018-10-27 16.18.28.755] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.18.29.331] Done saving
+[2018-10-27 16.18.29.337] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:18:29 +0000
+[2018-10-27 16.18.29.338] Marking changed: false
+[2018-10-27 16.18.47.034] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.18.47.zip
+[2018-10-27 16.18.51.939] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.18.52.457] Done saving
+[2018-10-27 16.18.52.462] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:18:52 +0000
+[2018-10-27 16.18.52.462] Marking changed: false
+[2018-10-27 16.19.42.200] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.19.42.725] Done saving
+[2018-10-27 16.19.42.729] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:19:42 +0000
+[2018-10-27 16.19.42.729] Marking changed: false
+[2018-10-27 16.19.47.484] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.19.47.zip
+[2018-10-27 16.21.24.213] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.21.24.776] Done saving
+[2018-10-27 16.21.24.780] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:21:24 +0000
+[2018-10-27 16.21.24.780] Marking changed: false
+[2018-10-27 16.21.34.668] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.21.35.171] Done saving
+[2018-10-27 16.21.35.174] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:21:35 +0000
+[2018-10-27 16.21.35.175] Marking changed: false
+[2018-10-27 16.21.49.109] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.21.49.zip
+[2018-10-27 16.22.15.203] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.22.15.703] Done saving
+[2018-10-27 16.22.15.707] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:22:15 +0000
+[2018-10-27 16.22.15.708] Marking changed: false
+[2018-10-27 16.22.50.082] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.22.50.zip
+[2018-10-27 16.23.42.075] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.23.42.563] Done saving
+[2018-10-27 16.23.42.567] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:23:42 +0000
+[2018-10-27 16.23.42.568] Marking changed: false
+[2018-10-27 16.23.50.750] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.23.50.zip
+[2018-10-27 16.25.04.897] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.25.05.399] Done saving
+[2018-10-27 16.25.05.402] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:25:05 +0000
+[2018-10-27 16.25.51.472] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.25.51.zip
+[2018-10-27 16.25.54.678] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.25.55.181] Done saving
+[2018-10-27 16.25.55.185] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:25:55 +0000
+[2018-10-27 16.25.55.186] Marking changed: false
+[2018-10-27 16.26.10.381] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.26.10.861] Done saving
+[2018-10-27 16.26.10.865] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:26:10 +0000
+[2018-10-27 16.26.10.865] Marking changed: false
+[2018-10-27 16.26.49.718] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.26.49.zip
+[2018-10-27 16.27.21.740] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.27.22.224] Done saving
+[2018-10-27 16.27.22.228] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:27:22 +0000
+[2018-10-27 16.27.22.228] Marking changed: false
+[2018-10-27 16.27.49.323] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.27.49.811] Done saving
+[2018-10-27 16.27.49.815] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:27:49 +0000
+[2018-10-27 16.27.49.815] Marking changed: false
+[2018-10-27 16.27.50.419] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.27.50.zip
+[2018-10-27 16.28.07.583] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.28.08.087] Done saving
+[2018-10-27 16.28.08.091] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:28:08 +0000
+[2018-10-27 16.28.08.091] Marking changed: false
+[2018-10-27 16.28.15.814] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.28.16.316] Done saving
+[2018-10-27 16.28.16.320] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:28:16 +0000
+[2018-10-27 16.28.16.320] Marking changed: false
+[2018-10-27 16.28.51.800] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.28.51.zip
+[2018-10-27 16.29.10.942] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.29.11.441] Done saving
+[2018-10-27 16.29.11.446] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:29:11 +0000
+[2018-10-27 16.29.11.446] Marking changed: false
+[2018-10-27 16.29.52.277] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.29.52.zip
+[2018-10-27 16.30.54.121] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.30.54.zip
+[2018-10-27 16.31.03.783] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.31.04.297] Done saving
+[2018-10-27 16.31.04.300] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:31:04 +0000
+[2018-10-27 16.31.04.300] Marking changed: false
+[2018-10-27 16.31.55.750] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.31.55.zip
+[2018-10-27 16.31.59.352] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.31.59.852] Done saving
+[2018-10-27 16.31.59.856] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:31:59 +0000
+[2018-10-27 16.31.59.856] Marking changed: false
+[2018-10-27 16.32.56.778] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.32.56.zip
+[2018-10-27 16.33.57.781] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.33.57.zip
+[2018-10-27 16.35.59.789] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.35.59.zip
+[2018-10-27 16.37.00.774] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.37.00.zip
+[2018-10-27 16.39.09.785] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.39.09.zip
+[2018-10-27 16.39.24.759] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.39.25.419] Done saving
+[2018-10-27 16.39.25.423] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:39:25 +0000
+[2018-10-27 16.39.25.424] Marking changed: false
+[2018-10-27 16.39.39.443] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.39.40.074] Done saving
+[2018-10-27 16.39.40.078] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:39:40 +0000
+[2018-10-27 16.39.40.078] Marking changed: false
+[2018-10-27 16.40.10.801] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.40.10.zip
+[2018-10-27 16.40.35.946] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.40.36.612] Done saving
+[2018-10-27 16.40.36.615] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:40:36 +0000
+[2018-10-27 16.40.36.616] Marking changed: false
+[2018-10-27 16.41.11.277] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.41.11.zip
+[2018-10-27 16.42.12.828] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.42.12.zip
+[2018-10-27 16.42.34.766] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.42.35.446] Done saving
+[2018-10-27 16.42.35.450] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:42:35 +0000
+[2018-10-27 16.42.35.451] Marking changed: false
+[2018-10-27 16.43.13.719] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.43.13.zip
+[2018-10-27 16.43.39.805] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.43.40.507] Done saving
+[2018-10-27 16.43.40.512] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:43:40 +0000
+[2018-10-27 16.43.40.512] Marking changed: false
+[2018-10-27 16.44.14.708] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.44.14.zip
+[2018-10-27 16.45.15.486] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.45.15.zip
+[2018-10-27 16.45.25.264] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.45.25.906] Done saving
+[2018-10-27 16.45.25.910] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:45:25 +0000
+[2018-10-27 16.45.25.910] Marking changed: false
+[2018-10-27 16.46.16.565] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.46.16.zip
+[2018-10-27 16.47.17.758] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.47.17.zip
+[2018-10-27 16.48.18.714] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.48.18.zip
+[2018-10-27 16.48.32.173] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.48.32.866] Done saving
+[2018-10-27 16.48.32.871] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:48:32 +0000
+[2018-10-27 16.48.32.872] Marking changed: false
+[2018-10-27 16.49.19.253] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.49.19.zip
+[2018-10-27 16.49.33.644] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.49.34.335] Done saving
+[2018-10-27 16.49.34.338] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:49:34 +0000
+[2018-10-27 16.49.34.339] Marking changed: false
+[2018-10-27 16.49.39.140] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.49.39.801] Done saving
+[2018-10-27 16.49.39.805] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:49:39 +0000
+[2018-10-27 16.49.39.805] Marking changed: false
+[2018-10-27 16.50.20.752] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.50.20.zip
+[2018-10-27 16.52.04.845] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.52.05.723] Done saving
+[2018-10-27 16.52.05.727] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:52:05 +0000
+[2018-10-27 16.52.05.728] Marking changed: false
+[2018-10-27 16.52.17.422] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.52.18.114] Done saving
+[2018-10-27 16.52.18.118] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:52:18 +0000
+[2018-10-27 16.52.18.118] Marking changed: false
+[2018-10-27 16.52.22.800] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.52.22.zip
+[2018-10-27 16.53.23.329] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.53.23.zip
+[2018-10-27 16.53.29.303] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.53.29.972] Done saving
+[2018-10-27 16.53.29.976] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:53:29 +0000
+[2018-10-27 16.53.29.976] Marking changed: false
+[2018-10-27 16.53.58.866] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.53.59.522] Done saving
+[2018-10-27 16.53.59.525] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:53:59 +0000
+[2018-10-27 16.53.59.526] Marking changed: false
+[2018-10-27 16.54.23.822] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.54.23.zip
+[2018-10-27 16.54.34.943] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.54.35.627] Done saving
+[2018-10-27 16.54.35.631] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:54:35 +0000
+[2018-10-27 16.54.57.985] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.54.58.689] Done saving
+[2018-10-27 16.54.58.693] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:54:58 +0000
+[2018-10-27 16.54.58.693] Marking changed: false
+[2018-10-27 16.55.06.645] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.55.07.316] Done saving
+[2018-10-27 16.55.07.320] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:55:07 +0000
+[2018-10-27 16.55.07.321] Marking changed: false
+[2018-10-27 16.55.24.799] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.55.24.zip
+[2018-10-27 16.56.06.259] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.56.06.932] Done saving
+[2018-10-27 16.56.06.935] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:56:06 +0000
+[2018-10-27 16.56.06.936] Marking changed: false
+[2018-10-27 16.56.23.933] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.56.24.625] Done saving
+[2018-10-27 16.56.24.629] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:56:24 +0000
+[2018-10-27 16.56.24.629] Marking changed: false
+[2018-10-27 16.56.25.255] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.56.25.zip
+[2018-10-27 16.56.32.444] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.56.33.215] Done saving
+[2018-10-27 16.56.33.220] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:56:33 +0000
+[2018-10-27 16.56.33.220] Marking changed: false
+[2018-10-27 16.57.02.616] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.57.03.334] Done saving
+[2018-10-27 16.57.03.338] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:57:03 +0000
+[2018-10-27 16.57.03.338] Marking changed: false
+[2018-10-27 16.57.25.881] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.57.25.zip
+[2018-10-27 16.59.27.546] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 16.59.27.zip
+[2018-10-27 16.59.42.042] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 16.59.42.702] Done saving
+[2018-10-27 16.59.42.708] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 07:59:42 +0000
+[2018-10-27 16.59.42.709] Marking changed: false
+[2018-10-27 17.00.03.218] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.00.03.899] Done saving
+[2018-10-27 17.00.03.903] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:00:03 +0000
+[2018-10-27 17.00.03.904] Marking changed: false
+[2018-10-27 17.00.28.790] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.00.28.zip
+[2018-10-27 17.02.29.887] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.02.29.zip
+[2018-10-27 17.02.52.976] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.02.53.670] Done saving
+[2018-10-27 17.02.53.674] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:02:53 +0000
+[2018-10-27 17.02.53.674] Marking changed: false
+[2018-10-27 17.02.57.720] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.02.58.378] Done saving
+[2018-10-27 17.02.58.382] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:02:58 +0000
+[2018-10-27 17.02.58.383] Marking changed: false
+[2018-10-27 17.03.31.733] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.03.31.zip
+[2018-10-27 17.04.21.352] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.04.22.029] Done saving
+[2018-10-27 17.04.22.033] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:04:22 +0000
+[2018-10-27 17.04.22.034] Marking changed: false
+[2018-10-27 17.04.32.361] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.04.32.zip
+[2018-10-27 17.04.34.691] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.04.35.391] Done saving
+[2018-10-27 17.04.35.396] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:04:35 +0000
+[2018-10-27 17.04.35.396] Marking changed: false
+[2018-10-27 17.05.00.984] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.05.01.761] Done saving
+[2018-10-27 17.05.01.765] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:05:01 +0000
+[2018-10-27 17.05.01.765] Marking changed: false
+[2018-10-27 17.05.32.827] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.05.32.zip
+[2018-10-27 17.06.33.951] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.06.33.zip
+[2018-10-27 17.07.34.935] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.07.34.zip
+[2018-10-27 17.08.35.465] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.08.35.zip
+[2018-10-27 17.08.35.767] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.08.36.484] Done saving
+[2018-10-27 17.08.36.489] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:08:36 +0000
+[2018-10-27 17.08.36.489] Marking changed: false
+[2018-10-27 17.09.00.814] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.09.01.547] Done saving
+[2018-10-27 17.09.01.551] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:09:01 +0000
+[2018-10-27 17.09.01.551] Marking changed: false
+[2018-10-27 17.09.36.907] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.09.36.zip
+[2018-10-27 17.10.05.279] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.10.06.034] Done saving
+[2018-10-27 17.10.06.038] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:10:06 +0000
+[2018-10-27 17.10.06.038] Marking changed: false
+[2018-10-27 17.10.37.873] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.10.37.zip
+[2018-10-27 17.11.39.684] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.11.39.zip
+[2018-10-27 17.13.22.460] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.13.23.475] Done saving
+[2018-10-27 17.13.23.480] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:13:23 +0000
+[2018-10-27 17.13.23.481] Marking changed: false
+[2018-10-27 17.13.41.397] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.13.41.zip
+[2018-10-27 17.13.45.011] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.13.45.719] Done saving
+[2018-10-27 17.13.45.724] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:13:45 +0000
+[2018-10-27 17.13.45.724] Marking changed: false
+[2018-10-27 17.14.23.337] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.14.24.088] Done saving
+[2018-10-27 17.14.24.092] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:14:24 +0000
+[2018-10-27 17.14.24.093] Marking changed: false
+[2018-10-27 17.14.42.892] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.14.42.zip
+[2018-10-27 17.14.55.906] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.14.56.641] Done saving
+[2018-10-27 17.14.56.645] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:14:56 +0000
+[2018-10-27 17.14.56.646] Marking changed: false
+[2018-10-27 17.15.27.201] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.15.27.973] Done saving
+[2018-10-27 17.15.27.976] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:15:27 +0000
+[2018-10-27 17.15.27.977] Marking changed: false
+[2018-10-27 17.15.35.838] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.15.36.585] Done saving
+[2018-10-27 17.15.36.589] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:15:36 +0000
+[2018-10-27 17.15.36.590] Marking changed: false
+[2018-10-27 17.15.43.426] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.15.43.zip
+[2018-10-27 17.15.55.267] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.15.56.058] Done saving
+[2018-10-27 17.15.56.063] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:15:56 +0000
+[2018-10-27 17.15.56.063] Marking changed: false
+[2018-10-27 17.16.38.773] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.16.39.646] Done saving
+[2018-10-27 17.16.39.650] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:16:39 +0000
+[2018-10-27 17.16.39.651] Marking changed: false
+[2018-10-27 17.16.44.296] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.16.44.zip
+[2018-10-27 17.16.55.738] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.16.56.470] Done saving
+[2018-10-27 17.16.56.474] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:16:56 +0000
+[2018-10-27 17.16.56.475] Marking changed: false
+[2018-10-27 17.17.04.643] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.17.05.376] Done saving
+[2018-10-27 17.17.05.379] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:17:05 +0000
+[2018-10-27 17.17.05.380] Marking changed: false
+[2018-10-27 17.17.16.598] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.17.17.316] Done saving
+[2018-10-27 17.17.17.320] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:17:17 +0000
+[2018-10-27 17.17.17.321] Marking changed: false
+[2018-10-27 17.17.45.245] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.17.45.zip
+[2018-10-27 17.18.08.741] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.18.10.195] Done saving
+[2018-10-27 17.18.10.211] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:18:10 +0000
+[2018-10-27 17.18.46.745] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.18.46.zip
+[2018-10-27 17.19.47.927] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.19.47.zip
+[2018-10-27 17.20.48.842] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.20.48.zip
+[2018-10-27 17.21.49.591] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.21.49.zip
+[2018-10-27 17.21.53.105] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.21.53.866] Done saving
+[2018-10-27 17.21.53.870] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:21:53 +0000
+[2018-10-27 17.21.53.870] Marking changed: false
+[2018-10-27 17.22.30.250] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.22.30.980] Done saving
+[2018-10-27 17.22.30.984] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:22:30 +0000
+[2018-10-27 17.22.30.985] Marking changed: false
+[2018-10-27 17.22.48.671] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.22.49.581] Done saving
+[2018-10-27 17.22.49.585] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:22:49 +0000
+[2018-10-27 17.22.49.585] Marking changed: false
+[2018-10-27 17.22.50.148] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.22.50.zip
+[2018-10-27 17.23.51.000] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.23.51.zip
+[2018-10-27 17.24.01.014] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.24.01.803] Done saving
+[2018-10-27 17.24.01.807] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:24:01 +0000
+[2018-10-27 17.24.01.807] Marking changed: false
+[2018-10-27 17.24.28.444] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.24.29.224] Done saving
+[2018-10-27 17.24.29.228] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:24:29 +0000
+[2018-10-27 17.24.29.228] Marking changed: false
+[2018-10-27 17.24.49.510] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.24.50.246] Done saving
+[2018-10-27 17.24.50.250] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:24:50 +0000
+[2018-10-27 17.24.50.251] Marking changed: false
+[2018-10-27 17.24.51.565] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.24.51.zip
+[2018-10-27 17.25.19.793] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.25.20.609] Done saving
+[2018-10-27 17.25.20.613] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:25:20 +0000
+[2018-10-27 17.25.20.614] Marking changed: false
+[2018-10-27 17.25.27.384] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.25.28.159] Done saving
+[2018-10-27 17.25.28.163] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:25:28 +0000
+[2018-10-27 17.25.28.163] Marking changed: false
+[2018-10-27 17.25.53.116] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.25.53.zip
+[2018-10-27 17.26.47.384] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “KdgA2I1Mm12MCWp8kLxTU6fnaUU.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/KdgA2I1Mm12MCWp8kLxTU6fnaUU.png, NSUnderlyingError=0x6040012543a0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.26.47.385] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “KdgA2I1Mm12MCWp8kLxTU6fnaUU.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/KdgA2I1Mm12MCWp8kLxTU6fnaUU.png, NSUnderlyingError=0x600001441a10 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.26.47.386] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “KdgA2I1Mm12MCWp8kLxTU6fnaUU.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/KdgA2I1Mm12MCWp8kLxTU6fnaUU.png, NSUnderlyingError=0x600000c589f0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.26.53.997] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.26.53.zip
+[2018-10-27 17.27.12.784] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.27.13.563] Done saving
+[2018-10-27 17.27.13.567] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:27:13 +0000
+[2018-10-27 17.27.13.567] Marking changed: false
+[2018-10-27 17.27.23.063] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.27.23.828] Done saving
+[2018-10-27 17.27.23.832] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:27:23 +0000
+[2018-10-27 17.27.23.832] Marking changed: false
+[2018-10-27 17.27.36.441] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.27.37.197] Done saving
+[2018-10-27 17.27.37.200] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:27:37 +0000
+[2018-10-27 17.27.37.201] Marking changed: false
+[2018-10-27 17.27.54.540] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.27.54.zip
+[2018-10-27 17.28.38.863] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.28.39.704] Done saving
+[2018-10-27 17.28.39.708] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:28:39 +0000
+[2018-10-27 17.28.39.709] Marking changed: false
+[2018-10-27 17.28.55.137] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.28.55.zip
+[2018-10-27 17.29.06.331] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.29.07.097] Done saving
+[2018-10-27 17.29.07.101] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:29:07 +0000
+[2018-10-27 17.29.07.101] Marking changed: false
+[2018-10-27 17.29.30.550] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.29.31.303] Done saving
+[2018-10-27 17.29.31.308] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:29:31 +0000
+[2018-10-27 17.29.31.308] Marking changed: false
+[2018-10-27 17.29.48.750] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.29.49.487] Done saving
+[2018-10-27 17.29.49.491] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:29:49 +0000
+[2018-10-27 17.29.49.492] Marking changed: false
+[2018-10-27 17.29.55.902] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.29.55.zip
+[2018-10-27 17.30.00.519] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.30.01.275] Done saving
+[2018-10-27 17.30.01.279] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:30:01 +0000
+[2018-10-27 17.30.01.279] Marking changed: false
+[2018-10-27 17.30.08.709] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.30.09.448] Done saving
+[2018-10-27 17.30.09.453] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:30:09 +0000
+[2018-10-27 17.30.09.453] Marking changed: false
+[2018-10-27 17.30.28.549] Saving to /Users/mac/Desktop/Framer_X/appstore-override2.framerx (origin)
+[2018-10-27 17.30.29.266] Done saving
+[2018-10-27 17.30.29.271] Updating origin: /Users/mac/Desktop/Framer_X/appstore-override2.framerx, last modified on: 2018-10-27 08:30:29 +0000
+[2018-10-27 17.30.29.271] Marking changed: false
+[2018-10-27 17.30.56.836] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.30.56.zip
+[2018-10-27 17.47.21.896] Saving to /Users/mac/Library/Autosave Information/Unsaved Framer X Document 4.framerx (copy)
+[2018-10-27 17.47.22.672] Done saving
+[2018-10-27 17.48.42.453] Invalidated
+[2018-10-27 17.55.13.714] Initialized with uuid 907DE939-53F4-47C3-AB02-1463082EE0CA
+[2018-10-27 17.55.13.719] Detecting changes: origin last modified on 2018-10-27 08:30:29 +0000, project last modified on 2018-10-27 08:30:29 +0000
+[2018-10-27 17.55.13.720] Reading from /Users/mac/Desktop/Framer_X/appstore.framerx (origin); preserving existing contents of project folder: true
+[2018-10-27 17.55.14.104] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000a46bd0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.104] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000e56050 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.105] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “HnFsI2nHVCtsRClTnx1wK1PwV0.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/HnFsI2nHVCtsRClTnx1wK1PwV0.png, NSUnderlyingError=0x600000e55240 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.106] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “sjcGOuWtWsCpmcqsxu6TLnAQ.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/sjcGOuWtWsCpmcqsxu6TLnAQ.png, NSUnderlyingError=0x600000e563b0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.107] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “ecPQ9rspOhrbnSv1I51uhQATFRA.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/ecPQ9rspOhrbnSv1I51uhQATFRA.png, NSUnderlyingError=0x600000e56e60 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.108] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “n3hi4auS9jP1cz5i28ev9COeebE.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/n3hi4auS9jP1cz5i28ev9COeebE.png, NSUnderlyingError=0x600000e58540 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.108] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “n3hi4auS9jP1cz5i28ev9COeebE.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/n3hi4auS9jP1cz5i28ev9COeebE.png, NSUnderlyingError=0x600000e586f0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.109] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “n3hi4auS9jP1cz5i28ev9COeebE.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/n3hi4auS9jP1cz5i28ev9COeebE.png, NSUnderlyingError=0x600000e58690 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.109] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “512” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/512/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e56680 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.110] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “1024” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/1024/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e56830 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.110] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “6sTkUtOf83szVlEglmyK1zNXUT4.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/6sTkUtOf83szVlEglmyK1zNXUT4.png, NSUnderlyingError=0x600000e567d0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.111] Couldn't create temporary image cache symlink: Error Domain=NSCocoaErrorDomain Code=516 "The file “KdgA2I1Mm12MCWp8kLxTU6fnaUU.png” couldn’t be saved in the folder “2048” because a file with the same name already exists." UserInfo={NSFilePath=/Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.cache/images/2048/KdgA2I1Mm12MCWp8kLxTU6fnaUU.png, NSUnderlyingError=0x604000a4b8e0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+[2018-10-27 17.55.14.111] Done reading
+[2018-10-27 17.55.14.112] Marking changed: false
+[2018-10-27 17.56.14.448] backing up to /Users/mac/Library/Autosave Information/Framer-907DE939-53F4-47C3-AB02-1463082EE0CA/container/.backups/2018-10-27 17.56.14.zip
